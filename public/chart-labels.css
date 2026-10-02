@@ -1,0 +1,5 @@
+.bar-value{font-family:PreferenzaData,Arial,sans-serif;font-size:8px;font-weight:700;pointer-events:none}
+.target-value{fill:#f4f3e8}
+.actual-value{fill:#102b1e}
+.chart-caveat{padding:0 14px 12px 62px;color:#bcd0c3;font-size:9px;line-height:1.4}
+@media(max-width:700px){.chart-caveat{padding-left:14px}}

@@ -1,0 +1,17 @@
+node_modules/
+artifacts/
+*.tar.gz
+dist/
+.openai/
+public/monica-data.mjs
+public/goals-data.mjs
+public/cost-data.mjs
+tests/reference/
+*.xlsx
+*.xls
+*.csv
+!tests/fixtures/*.xlsx
+!tests/fixtures/*.xls
+*.pdf
+*.pptx
+*.docx
